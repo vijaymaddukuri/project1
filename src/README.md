@@ -8,7 +8,6 @@ A file ‘.gitmodules’ is created in the parent directory which keeps track of
 This file maps the Project’s repository Url and the local subdirectory. Multiple entries will be recorded for multiple
 submodules.
 
-
 ## Adding git submodule into our repo:
 
 git submodule add https://github.com/user/submodule submodule-dir
