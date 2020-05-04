@@ -11,7 +11,7 @@ submodules.
 
 ## Adding git submodule into our repo:
 
-git submodule add https://github.com/<user>/<submodule> <submodule-dir>
+git submodule add https://github.com/user/submodule submodule-dir
 
 ## When files are updated in sub module, how to get those changes into parent repo:
 
