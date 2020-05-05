@@ -9,6 +9,7 @@ import requests
 import traceback
 from kafka import KafkaClient
 from kafka import KafkaConsumer
+from src.commonlib.commonlib.kafka_producer import KafkaProducer
 # from kafka_handler import CommonKafkaProducer
 from string import Template
 

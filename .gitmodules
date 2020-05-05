@@ -1,5 +1,5 @@
-[submodule "src/common-lib"]
-	path = src/common-lib
-	url = https://github.com/vijaymaddukuri/common-lib.git
 [submodule "Submod"]
 	branch = master
+[submodule "src/commonlib"]
+	path = src/commonlib
+	url = https://github.com/vijaymaddukuri/common-lib.git
